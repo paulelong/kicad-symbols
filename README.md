@@ -1,8 +1,7 @@
 # KiCad Symbols
 
-This repository contains a fork of the official KiCad schematic symbol libraries.  These add:
+This repository contains a fork of the official KiCad schematic symbol libraries.  This adds:
  * BelaMini symbol (http://www.belaio.com)
- * BelaMini footprint (http://www.belaio.com)
 
 **The libraries in this repositiory are intended for KiCad version 5 or a nightly build that supports the schematic library version 2.4 or newer.**
 
